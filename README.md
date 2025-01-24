@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫Hi, I'm Hüseyin SERİNKAYA :
 👨‍💻 I'm currently working on enhancing my skills in full-stack development, with a particular focus on HTML, CSS, JavaScript, React, and Node.js. I aim to build robust, user-friendly web and mobile applications.
 
 🤝 I'm looking to collaborate on innovative web and mobile development projects that challenge me to grow and improve my skills.
